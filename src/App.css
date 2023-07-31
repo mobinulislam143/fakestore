@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.footer{
+  background-color: rgb(158, 156, 168);
+  margin: 0 auto;
+  padding: 10px 0px 0px 0px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+span{
+  font-size: 36px;
+  position: absolute;
+  top: -12%;
+  left: -3%;
+}
+
